@@ -10,3 +10,6 @@ print ("---------------------END---------------------")
 for w in range( 3 , 10 , 2 ): #เริ่มที่ 3 ไป 10 โดยการบวกทีละ 2
     print (f"YATTAAAA '{w}'")
 print ("---------------------END---------------------")
+for b  in "Hello welcome in Thailand":
+    print (f"Sawaadee {b}")
+print ("---------------------END---------------------")
