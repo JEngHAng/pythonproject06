@@ -4,6 +4,6 @@ print ("---------------------END---------------------")
 for y in range(10):
     print (f"YATTAAAAAAAAAA '{y}'")
 print ("---------------------END---------------------")
-for z in range(10):
+for z in range( 2 , 10 ):
     print (f"YATTAAAAAAAAAA '{z}'")
 print ("---------------------END---------------------")
