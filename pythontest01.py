@@ -4,4 +4,4 @@
 
 #loop / repeat / itertion
 #ทำซ้่ำๆ
-#while , for loop
+#while , for loop , loop 
